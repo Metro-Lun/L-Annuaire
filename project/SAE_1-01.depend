@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1669850767 source:c:\users\proutinator\documents\cours\c\sae_1-01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669852158 source:c:\users\proutinator\documents\cours\c\sae_1-01\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<assert.h>
+	<string.h>
+
+1669850830 c:\users\proutinator\documents\cours\c\sae_1-01\fonctions.h
+
+1672963117 source:c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672964176 source:c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
+1672963118 c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\fonctions.h
+	<stdio.h>
+
+1671987760 source:c:\users\moi\documents\sae_s1.01\sae-s1.01_b.mehdi_g.jason\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
+1671987809 c:\users\moi\documents\sae_s1.01\sae-s1.01_b.mehdi_g.jason\fonctions.h
+	<stdio.h>
+
+1671987093 source:c:\users\moi\documents\sae_s1.01\sae-s1.01_b.mehdi_g.jason\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1672445111 source:e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1672399857 e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\fonctions.h
+	<stdio.h>
+
+1672443554 source:e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
+1673168634 source:c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\project\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
+1673165630 c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\project\fonctions.h
+	<stdio.h>
+
+1673169190 source:c:\users\proutinator\documents\cours\c\sae-s1.01_b.mehdi_g.jason\project\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
+1673143386 source:e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\project\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1673141844 e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\project\fonctions.h
+	<stdio.h>
+
+1673144302 source:e:\prog c\saé s1.01\sae-s1.01_b.mehdi_g.jason\project\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1673189158 source:e:\prog c\sae-s1.01_b.mehdi_g.jason\project\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
+1673188841 e:\prog c\sae-s1.01_b.mehdi_g.jason\project\fonctions.h
+	<stdio.h>
+
+1673195420 source:c:\users\proutinator\documents\sae-s1.01_b.mehdi_g.jason\project\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
+1673195420 c:\users\proutinator\documents\sae-s1.01_b.mehdi_g.jason\project\fonctions.h
+	<stdio.h>
+
+1673216245 source:c:\users\proutinator\pictures\sae-s1.01_b.mehdi_g.jason\project\fonctions.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
+1673216245 c:\users\proutinator\pictures\sae-s1.01_b.mehdi_g.jason\project\fonctions.h
+	<stdio.h>
+
+1673216245 source:c:\users\proutinator\pictures\sae-s1.01_b.mehdi_g.jason\project\main.c
+	"fonctions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<windows.h>
+
